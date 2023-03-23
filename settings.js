@@ -1,16 +1,16 @@
 const fs = require('fs')
 
 // APIKEY OPEN AI
-global.keyopenai  = "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" // ISI APIKEY LU
+global.keyopenai  = "TUTOR UDH ADA DI YT JER OFC" // ISI APIKEY LU
 
 // Api
 global.APIs = {
-	alfa: 'https://api.zeeoneofc.my.id',
+	alfa: 'https://api.zeeoneofc.my.id', // GA USH DI UBAH FLER
 }
 
 // APIKEY \\
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'jerapikeytod',
+	'https://api.zeeoneofc.my.id': 'ISI APIKEY LU',
 }
 
 global.namabot = "JER-BOTZ MD" // UBAH JADI NAMA LU
