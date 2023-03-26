@@ -1,5 +1,5 @@
 {
-  "name": "zeeone-store",
+  "name": "jer-store",
   "version": "2.0.0",
   "description": "Bot WhatsApp Khusus Store atau Jualan, berisi fitur-fitur grup seperti addlist, antilink,kick, dan lainnya.",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Zeeoneofc",
+  "author": "Jer-Ofc",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys@6.0.7",
@@ -38,6 +38,7 @@
     "pino": "^7.0.5",
     "qrcode-terminal": "^0.12.0",
     "child_process": "^1.0.2",
+    "similarity": "^1.2.1",
     "util": "^0.12.4"
   }
 }
