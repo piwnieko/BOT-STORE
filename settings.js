@@ -13,33 +13,37 @@ global.APIKeys = {
 	'https://api.zeeoneofc.my.id': 'ISI APIKEY LU',
 }
 
-global.namabot = "JER-BOTZ MD" // UBAH JADI NAMA LU
-global.namaowner = "JER" // NAMA OWNER
-global.footer_text = "© JER-BOTZ MD" + namabot // NAMA BOT
+global.namabot = "fiera-mud" // UBAH JADI NAMA LU
+global.namaowner = "fiera-hub" // NAMA OWNER
+global.footer_text = "© fiera-mud" + namabot // NAMA BOT
 global.pp_bot = fs.readFileSync("./image/allmenubot.jpg") // FOTO BOT MAX 50KB BIAR GA DELAY
 global.qris = fs.readFileSync("./image/qris.jpg") // FOTO QRIS MAX 50KB BIAR GA DELLAY
-global.owner = ['6281315252010','6281315252010'] // UBAH NOMOR YANG MAU DI JADIKAN OWNER
+global.owner = ['6281357981324','6282140351695'] // UBAH NOMOR YANG MAU DI JADIKAN OWNER
 // PEMISAH
 global.sessionName = 'session' // GAK USAH UBAH
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿'] // GAK USAH UBAH
 global.sewabot = ("SEWA CHAT OWNER") // ISI HARGA SEWA BOT LU
-global.donasi = ("JANGAN LUPA DONASI BANG 😅🤙") // QRIS SAMA FOTO DONASI UDAH CONNECT TINGGAL GANTI FOTO QRIS AJA
+global.donasi = ("Dunet") // QRIS SAMA FOTO DONASI UDAH CONNECT TINGGAL GANTI FOTO QRIS AJA
 global.script = ("https://youtu.be/GyHK5BVyBeQ NO ENC ? BUY") // BEBAS ASAL JAN HAPUS
-global.websitex = ("https://s.id/jer-botzofc") // ISI BEBAS ASAL JAN HAPUS
-global.myweb = "https://s.id/jer-botzofc" // bebas asal jan hapus
+global.websitex = ("https://s.id/fiera-oc") // ISI BEBAS ASAL JAN HAPUS
+global.myweb = "https://s.id/fiera-oc" // bebas asal jan hapus
 
 
 // NAME STICKER
-global.packname = '© JER-BOTZ' //sticker wm ubah
-global.author = 'Di Buat Oleh JEREMI OFFICIAL' //sticker wm ganti nama kalian
+global.packname = '© fiera-mud' //sticker wm ubah
+global.author = 'Di Buat Oleh PIW,Fiera' //sticker wm ganti nama kalian
 // UBAH AJA NAMA NYA 
 
 // BUY NO ENC 70K CHAT ME
-https://wa.me/6281315252010
+https://wa.me/6282140351695
 
 module.exports.helpMenu = (pushname) =>{
 	return `Halo Kak 👋 ${pushname}
 Saya ${namabot}, Saya Adalah Bot WhatsApp .
+
+Bot Status = Online ♻️
+Bot Running With = SuperClub 📍
+Bot Number = +16014297829 🔑
 
 ╭✄┈┈┈⟬ *INFO-BOT* ⟭
 ┆❐ Creator : ${namaowner}
@@ -253,6 +257,7 @@ ___________________________
 🅕 FITUR FREE
 🅟 FITUR KHUSUS PREMIUM
 
-📝 *NOTE:BOT INI MASIH DALAM PENGEMBANGAN OLEH JER JANGAN LUPA SUBSCRIBE YT JER OFC*
+☑️ https://12.282.993.21.addres (addres made by piw-ofc)
+📝 *NOTE:BOT INI MASIH DALAM PENGEMBANGAN OLEH Fiera Dan Piw*
 `
 }
